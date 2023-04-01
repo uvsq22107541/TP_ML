@@ -45,7 +45,7 @@ Il y a plusieurs hyperparamètres qui peuvent être ajustés pour optimiser les 
 4. Min_samples_leaf : c'est le nombre minimum d'échantillons requis pour former une feuille de l'arbre de décision. Une valeur plus grande peut également aider à prévenir le surapprentissage, mais peut réduire la capacité du modèle à s'ajuster aux données.
 5. Learning rate : (pour Gradient Boosting) c'est un paramètre qui contrôle la taille des mises à jour effectuées sur les poids à chaque étape de l'entraînement. Un taux d'apprentissage plus faible signifie que les mises à jour sont plus petites, ce qui peut aider à éviter le surapprentissage, mais peut également ralentir le processus d'entraînement.
 
-Il existe également d'autres hyperparamètres qui peuvent être ajustés, selon l'implémentation de Gradient Boosting utilisée.
+Il existe également d'autres hyperparamètres qui peuvent être ajustés, selon la méthode utilisée.
 
 ________________________________________________________
 ***** Choix des valeurs des Hyperparamètres ***** 
