@@ -13,7 +13,7 @@ ______________________________________________________________
 La principale différence entre Random Forest et Gradient Boosting est la façon dont les modèles sont combinés pour former une prédiction finale. 
 
   ***** 1. Random Forest *****
-  Random Forest est un type de méthode d'ensemble parallèle, i.e. plusieurs arbres de décision sont construits de manière indépendante et la prédiction finale est faite en éliminant ou en votant sur les prédictions de tous les arbres.
+  Random Forest est un type de méthode d'ensemble parallèle, i.e. plusieurs arbres de décision sont construits de manière indépendante et la prédiction finale est faite en moyennant ou en votant sur les prédictions de tous les arbres.
 
   ***** 2. Gradient Boosting *****
   Gradient Boosting est un type de méthode d'ensemble séquentiel, i.e. les arbres sont construits séquentiellement, où chaque nouvel arbre est construit pour corriger les erreurs des prédictions précédentes. 
