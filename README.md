@@ -36,7 +36,7 @@ _____________________________________________________________
 **** Hyperparamètres *****
 _____________________________________________________________
 
-Dans Gradient Boosting, il y a plusieurs hyperparamètres qui peuvent être ajustés pour optimiser les performances du modèle. Voici quelques exemples d'hyperparamètres couramment utilisés dans les implémentations de Random Forest et Gradient Boosting :
+Il y a plusieurs hyperparamètres qui peuvent être ajustés pour optimiser les performances du modèle. Voici quelques exemples d'hyperparamètres couramment utilisés dans les implémentations de Random Forest et Gradient Boosting :
 
 
 1. Nombre d'arbres de décision : c'est le nombre total d'arbres de décision que le modèle utilisera pour faire des prédictions. Un nombre plus élevé d'arbres peut aider à améliorer les performances, mais peut également augmenter le temps d'entraînement et de prédiction.
